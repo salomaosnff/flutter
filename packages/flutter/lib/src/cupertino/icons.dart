@@ -628,6 +628,66 @@ class CupertinoIcons {
   ///  * [fullscreen], which is similar, but has the corners facing inwards.
   static const IconData fullscreen_exit = IconData(0xf37d, fontFamily: iconFont, fontPackage: iconFontPackage);
 
+  /// Filter
+  static const IconData filter = IconData(0xf38b, fontFamily: iconFont, fontPackage: iconFontPackage);
+
+  /// World
+  static const IconData world = IconData(0xf38c, fontFamily: iconFont, fontPackage: iconFontPackage);
+
+  /// Hangouts
+  static const IconData hangouts = IconData(0xf38d, fontFamily: iconFont, fontPackage: iconFontPackage);
+
+  /// Emoticon Outline
+  static const IconData emoticon_outline = IconData(0xf38e, fontFamily: iconFont, fontPackage: iconFontPackage);
+
+  /// Home
+  static const IconData home = IconData(0xf38f, fontFamily: iconFont, fontPackage: iconFontPackage);
+
+  /// Laptop
+  static const IconData laptop = IconData(0xf390, fontFamily: iconFont, fontPackage: iconFontPackage);
+
+  /// File Document
+  static const IconData file_document_solid = IconData(0xf391, fontFamily: iconFont, fontPackage: iconFontPackage);
+
+  /// Lock
+  static const IconData lock = IconData(0xf392, fontFamily: iconFont, fontPackage: iconFontPackage);
+
+  /// Map
+  static const IconData map = IconData(0xf393, fontFamily: iconFont, fontPackage: iconFontPackage);
+
+  /// List
+  static const IconData list = IconData(0xf394, fontFamily: iconFont, fontPackage: iconFontPackage);
+
+  /// Microphone Off
+  static const IconData microphone_off = IconData(0xf395, fontFamily: iconFont, fontPackage: iconFontPackage);
+
+  /// Dots Horizontal
+  static const IconData dots_horizontal = IconData(0xf396, fontFamily: iconFont, fontPackage: iconFontPackage);
+
+  /// Dots Vertical
+  static const IconData dots_vertical = IconData(0xf397, fontFamily: iconFont, fontPackage: iconFontPackage);
+
+  /// Navigation
+  static const IconData navigation = IconData(0xf398, fontFamily: iconFont, fontPackage: iconFontPackage);
+
+  /// Bell Outline
+  static const IconData bell_ouline = IconData(0xf399, fontFamily: iconFont, fontPackage: iconFontPackage);
+
+  /// Bell Off
+  static const IconData bell_off = IconData(0xf39A, fontFamily: iconFont, fontPackage: iconFontPackage);
+
+  /// Bell
+  static const IconData bell = IconData(0xf39B, fontFamily: iconFont, fontPackage: iconFontPackage);
+
+  /// Open in New
+  static const IconData open_in_new = IconData(0xf39C, fontFamily: iconFont, fontPackage: iconFontPackage);
+
+  /// Settings Variant
+  static const IconData settings_variant = IconData(0xf39D, fontFamily: iconFont, fontPackage: iconFontPackage);
+
+  /// Accounts
+  static const IconData accounts = IconData(0xf39E, fontFamily: iconFont, fontPackage: iconFontPackage);
+
   /// A filled in microphone with a diagonal line crossing it.
   ///
   /// See also:
